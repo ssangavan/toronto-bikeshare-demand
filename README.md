@@ -1,4 +1,4 @@
-# toronto-bikeshare-demand
+# Toronto-Bikeshare-Demand
 
 Project title: Toronto Bike Share: What Drives Daily Ridership, and Can We Forecast It?
 
